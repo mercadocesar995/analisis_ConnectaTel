@@ -107,8 +107,6 @@ Minutos de llamadas.
 
 Distribución del consumo.
 
-Diferencias entre los planes Básico y Premium.
-
 
 **4. Segmentación por edad**
 
@@ -120,8 +118,6 @@ Jóvenes: menores de 30 años.
 Adultos: entre 30 y 59 años.
 
 Adultos Mayores: 60 años o más.
-
-Se evaluó la distribución de clientes y su relación con los planes contratados.
 
 
 **5. Segmentación por nivel de uso**
