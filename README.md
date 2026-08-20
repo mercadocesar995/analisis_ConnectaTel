@@ -13,8 +13,6 @@ El análisis busca determinar si variables demográficas como la edad permiten e
 
 **Plans**
 
-Contiene la información de los planes ofrecidos por ConnectaTel:
-
 
 plan_name: nombre del plan.
 
@@ -35,7 +33,6 @@ usd_per_minute: costo por minuto adicional.
 
 **Users**
 
-Contiene información demográfica y contractual de los clientes:
 
 user_id: identificador del cliente.
 
@@ -54,7 +51,6 @@ churn_date: fecha de cancelación, cuando corresponde.
 
 **Usage**
 
-Contiene el detalle de las interacciones realizadas por los clientes:
 
 id: identificador del registro.
 
@@ -67,6 +63,8 @@ date: fecha de la interacción.
 duration: duración de la llamada.
 
 length: longitud del mensaje.
+
+
 
 ## Etapas del análisis
 
