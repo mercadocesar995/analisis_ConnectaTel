@@ -65,6 +65,16 @@ duration: duración de la llamada.
 length: longitud del mensaje.
 
 
+## Herramientas utilizadas
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Google Colab
+- GitHub
+
 
 ## Etapas del análisis
 
