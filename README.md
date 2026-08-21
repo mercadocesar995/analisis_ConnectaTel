@@ -148,7 +148,7 @@ Identificación de oportunidades de activación o retención.
 ## Cómo ejecutar el proyecto
 
 
-Google Colab: https://colab.research.google.com/drive/1XcuSdxDP9FzGL7_NJFYGAwubH6Ntza8F?usp=sharing
+Google Colab: [https://colab.research.google.com/drive/1XcuSdxDP9FzGL7_NJFYGAwubH6Ntza8F?usp=sharing](https://colab.research.google.com/drive/1GKI8H0LSgabgQzv11xz2MBTq_e4NuZWD?usp=sharing)
 
 Ingresa a Google Colab.
 
